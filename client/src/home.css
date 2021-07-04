@@ -1,0 +1,127 @@
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+h1
+{
+    color: rgb(230, 82, 82);
+}
+
+.adm{
+    margin-left: 226px;
+    color: rgb(92, 212, 202);
+    font-family: inherit;
+}
+
+.form-label {
+    color: blue;
+}
+
+.navbar {
+    background-color: #ffff80
+}
+
+.navbar:hover{
+    background-color: #1a1a1a;
+    color: #ffff80;
+    cursor: default;
+}
+
+.navbar-text {
+    margin-left: 38rem;
+}
+
+.logout {
+    margin-bottom: 1rem;
+    margin-right: 4em;
+    list-style-type: none;
+}
+
+.image-fluid {
+    max-width: 500px;
+    margin-top: 4em;
+    margin-left: 3em;
+}
+
+
+.container-fluid {
+    max-width: 357px;
+    align-items: center;
+    justify-content: center;
+}
+.btn {
+    background-color: aquamarine;
+    color: black;
+    margin-top: 0;
+
+}
+
+.actbutton
+{
+    background-color: aquamarine;
+    color: black;
+    margin-top: 0;
+    margin-left: 276px;
+}
+
+.alert-danger {
+    color:  rgb(230, 82, 82);
+    background-color: #1a1a1a;
+    border-color: #1a1a1a;
+    font-size: 120%;
+}
+#line
+{
+    border-right: 2px solid aquamarine;
+    height: 550px;
+    left: auto;
+    margin-left: px;
+    top: 0;
+}
+
+#form {
+    width: 50%;
+    margin: 129px auto;
+}
+
+.detform {
+    width: 80%;
+    padding: 10px 0;
+    margin-bottom: 30px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid aquamarine;
+    outline: none;
+    color: whitesmoke;
+}
+
+#detid {
+    width: 80%;
+}
+
+#exampleInputEmail1  {
+    width: 100%;
+    padding: 10px 0;
+    margin-bottom: 30px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid aquamarine;
+    outline: none;
+    color: whitesmoke;
+}
+
+#exampleInputPassword1 {
+
+    width: 100%;
+    padding: 10px 0;
+    margin-bottom: 30px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid aquamarine;
+    outline: none;
+    color: whitesmoke;
+}
+
